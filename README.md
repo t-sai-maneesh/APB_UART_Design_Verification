@@ -23,6 +23,9 @@ The verification environment uses two independent UVM agents:
 
 ## Verification Architecture
 
+### TB Architecture
+<img width="1000" height="1112" alt="Your paragraph text" src="https://github.com/user-attachments/assets/43bea023-93d7-4312-a2ce-fbdc9ec842d2" />
+
 ### APB Agent
 
 The APB Agent drives APB transactions to the UART core and performs:
@@ -113,7 +116,8 @@ sim/              Makefile
 
 ### Wave Form
 <img width="960" height="504" alt="Screenshot 2026-06-18 115248" src="https://github.com/user-attachments/assets/0d53dc74-f32d-428c-8a08-51b9654c2481" />
-\
+
+
 ### Terminal Output
 <img width="475" height="539" alt="Screenshot 2026-06-19 125517" src="https://github.com/user-attachments/assets/05c29308-0549-4cb4-bf31-dac6e737980a" />
 <img width="810" height="374" alt="Screenshot 2026-06-19 125648" src="https://github.com/user-attachments/assets/a649bea1-176f-4ae1-84b3-9904353af99b" />
