@@ -90,6 +90,8 @@ apb_agent_top/    APB Agent Components
 
 uart_agent_top/   UART Agent Components
 
+sim/              Makefile
+
 ## Tools Used
 
 * Verilog
